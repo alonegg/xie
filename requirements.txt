@@ -82,7 +82,7 @@ pillow
 opencv-python
 
 # 文本处理和NLP
-jieba
+#jieba
 wordcloud
 nltk
 textblob
@@ -93,7 +93,7 @@ lxml
 html5lib
 
 # 数据库
-sqlite3
+#sqlite3
 pymongo
 
 # 时间处理
