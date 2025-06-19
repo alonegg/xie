@@ -109,7 +109,7 @@ jsonschema
 pyyaml
 toml
 configparser
-itertools
+#itertools
 collections
 functools
 operator
