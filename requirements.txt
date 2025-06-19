@@ -97,7 +97,7 @@ html5lib
 pymongo
 
 # 时间处理
-dateutil
+#dateutil
 pytz
 
 # 交互式组件
