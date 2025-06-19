@@ -79,7 +79,7 @@ pillow
 opencv-python
 
 # 文本处理和NLP
-#jieba
+jieba
 wordcloud
 nltk
 textblob
