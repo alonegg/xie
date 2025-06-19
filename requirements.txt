@@ -43,3 +43,104 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=6,<7
 bqplot
+
+# Python packages for JupyterLite
+# 数据处理和科学计算
+numpy
+pandas
+scipy
+sympy
+numba
+
+# 数据可视化
+matplotlib
+seaborn
+plotly
+bokeh
+altair
+pyecharts
+
+# 机器学习和AI
+scikit-learn
+statsmodels
+xgboost
+lightgbm
+
+# 网络请求和API
+requests
+urllib3
+httpx
+
+# 文件处理
+openpyxl
+xlrd
+xlsxwriter
+pyPDF2
+
+# 图像处理
+pillow
+opencv-python
+
+# 文本处理和NLP
+jieba
+wordcloud
+nltk
+textblob
+
+# 网页解析
+beautifulsoup4
+lxml
+html5lib
+
+# 数据库
+sqlite3
+pymongo
+
+# 时间处理
+dateutil
+pytz
+
+# 交互式组件
+ipywidgets
+voila
+
+# 工具库
+jsonschema
+pyyaml
+toml
+configparser
+itertools
+collections
+functools
+operator
+
+# 数学和统计
+math
+statistics
+random
+
+# 系统和文件操作
+os
+sys
+shutil
+glob
+pathlib
+
+# 正则表达式
+re
+
+# 网络和并发
+socket
+threading
+multiprocessing
+asyncio
+
+# 测试
+unittest
+pytest
+
+# 其他常用库
+tqdm
+click
+colorama
+tabulate
